@@ -1,0 +1,24 @@
+h2
+{
+color:black;
+text-decoration:underline;
+font-weight:bold;
+}
+
+button{
+color:black;
+background-color:pink;
+font-weight:bold;
+}
+
+p{
+
+padding:30px;
+text-align:center;
+border:2px solid;
+outline:5px solid red;
+outline-style:dashed;
+background-color:yellow;
+margin:50px 50px;
+width:20%;
+}
